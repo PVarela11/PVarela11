@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pedro Varela
 - 👀 I’m interested in programming
-- 🌱 I’m currently finishing my Computer Science Degree
+- 🌱 I have a degree in Computer Science
 - 📫 To reach me you can contact on LinkedIn https://www.linkedin.com/in/pedrovarela1
